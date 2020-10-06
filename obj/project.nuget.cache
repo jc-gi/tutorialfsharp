@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ilx6KHGdBI94wXkg3q6ak7Vs56SIhieqbmOSlOWveMue+MPYI/g/FNdcBC4dslhzf9wIdmjDB9CAZBrVlAXjlQ==",
+  "success": true,
+  "projectFilePath": "E:\\workspace\\tutorial\\tutorial.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\el_racional\\.nuget\\packages\\fsharp.core\\4.7.1\\fsharp.core.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
